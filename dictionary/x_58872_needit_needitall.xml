@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="96c907318343a210c1561080deaad39f" extends="task" label="NeedItall" max_length="40" name="x_58872_needit_needitall" type="collection"/>
+</database>
